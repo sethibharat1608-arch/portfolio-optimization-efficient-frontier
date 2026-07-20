@@ -1,0 +1,18 @@
+# Stock universe: FAANG + blue chips across sectors
+# Chosen for diversification across tech, finance, healthcare, consumer, industrials
+tickers:
+  - AAPL   # Technology
+  - MSFT   # Technology
+  - GOOGL  # Communication Services
+  - AMZN   # Consumer Discretionary
+  - META   # Communication Services
+  - JPM    # Financials
+  - JNJ    # Healthcare
+  - PG     # Consumer Staples
+  - XOM    # Energy
+  - V      # Financials
+  - HD     # Consumer Discretionary
+  - UNH    # Healthcare
+  - KO     # Consumer Staples
+  - CAT    # Industrials
+  - DIS    # Communication Services

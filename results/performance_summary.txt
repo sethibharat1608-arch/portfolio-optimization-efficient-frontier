@@ -1,0 +1,11 @@
+--- MSR Portfolio (OOS Backtest) ---
+Annualized Return: 33.20%
+Annualized Volatility: 11.70%
+Sharpe Ratio: 2.45
+Max Drawdown: -7.94%
+
+--- Benchmark (S&P 500) ---
+Annualized Return: 18.36%
+Annualized Volatility: 10.98%
+Sharpe Ratio: 1.26
+Max Drawdown: -7.58%
